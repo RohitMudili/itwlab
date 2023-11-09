@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "itwLABVAL.C": "cpp",
+        "itwLABeval.C": "cpp"
+    }
+}
